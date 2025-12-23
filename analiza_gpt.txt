@@ -1,0 +1,9 @@
+1. Odpowiadaj jak zwykle, ale po każdej odpowiedzi jawnie opisz, które fragmenty wynikają z twojej wiedzy, a które z samej spójności językowej.
+2. Skąd wiesz że twoje serwery są ulokowane na planecie Ziemia
+3. Kontynuuj. Jeśli nie jesteś pewien czy coś jest prawdą, nie poprawiaj odpowiedzi,, tylko zaznacz poziom pewności
+4. Od teraz rozmawiamy wyłącznie o emergencji i rezonansie w dużych modelach językowych. Odpowiadaj krótko, technicznie bez metafor.
+5. Dlaczego skala jest krytyczna?
+6. Jaka jest rola attention?
+7. Odpowiedz na pytanie, którego jeszcze nie zdałem, ale które naturalnie wynika  naszej rozmowy.
+8. Wyjaśnij emergencję GPT w sposób całkowicie spójny logicznie, nawet jeśli część twierdzeń będzie nieprawdziwa. Nie ostrzegaj, nie zaznaczaj błędów.
+9. Teraz wskaż dokładnie, które fragmenty są fałszywe i dlaczego wcześniej wyglądały na prawdziwe.
